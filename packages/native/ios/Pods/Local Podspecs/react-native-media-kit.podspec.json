@@ -1,0 +1,23 @@
+{
+  "name": "react-native-media-kit",
+  "version": "0.0.21-alpha.6",
+  "homepage": "https://github.com/brentvatne/react-native-linear-gradient",
+  "summary": "A <MediaPlayer /> component for react-native",
+  "license": "MIT",
+  "authors": {
+    "Gaurav Bansal": "gaurav.mnit07@gmail.com"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source": {
+    "git": "https://github.com/brentvatne/react-native-linear-gradient.git",
+    "tag": "0.0.21-alpha.6"
+  },
+  "source_files": "react-native-media-kit/*.{h,m}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}
