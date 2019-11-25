@@ -10,6 +10,7 @@ const path = require('path');
 module.exports = {
   watchFolders: [path.resolve(__dirname, '../../')],
   transformer: {
+    publicPath: './../assets',
     getTransformOptions: async () => ({
       transform: {
         experimentalImportSupport: false,
